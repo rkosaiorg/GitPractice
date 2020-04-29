@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{DDA59746-7E11-E01D-A410-D6DFBFFC47CE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Goo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Hoo.cs">
     <Files>
       <File FileName="Assets/Scripts/Foo.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Goo.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Goo.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Goo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Goo.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/Hoo.cs" Line="10" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +11,7 @@
           <Node name="GitPractice" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Goo.cs" selected="True" />
+                <Node name="Hoo.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -22,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ed97ce36-ce66-4cbc-bf42-e7dde42e9b29" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a60d4925-6a2d-4cf5-a07a-9c1d8031a087" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
