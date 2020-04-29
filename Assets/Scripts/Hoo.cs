@@ -8,6 +8,7 @@ public class Hoo : MonoBehaviour
     void Start()
     {
         int addforpullrequestvar = 1;
+        addforpullrequestvar = 2;
     }
 
     // Update is called once per frame
