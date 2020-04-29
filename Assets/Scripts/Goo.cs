@@ -9,6 +9,7 @@ public class Goo : MonoBehaviour
     void Start()
     {
         status = 1;
+        int feature12 = 11;
     }
 
     // Update is called once per frame
